@@ -25,7 +25,6 @@ export default function RootLayout({
         <main className="min-hs-screen">
           <Header />
           {children}
-         
         </main>
       </body>
     </html>
